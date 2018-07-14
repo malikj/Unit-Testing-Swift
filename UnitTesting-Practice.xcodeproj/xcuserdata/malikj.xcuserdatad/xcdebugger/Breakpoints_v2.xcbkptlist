@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTesting-Practice/LocationManager.swift"
+            timestampString = "553279907.1600209"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "locationServicesEnabled()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTesting-Practice/LocationManager.swift"
+            timestampString = "553279907.1601371"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "shouldShowEnableLocationAlert(locationManager:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTesting-PracticeTests/UnitTesting_PracticeTests.swift"
+            timestampString = "553279907.160235"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "test_shouldShowEnableLocationAlert_returnsTrue_when_locationServicesAreDisabled()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTesting_PracticeTests.UnitTesting_PracticeTests.test_shouldShowEnableLocationAlert_returnsTrue_when_locationServicesAreDisabled() -&gt; ()"
+                  moduleName = "UnitTesting-PracticeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/malikj/Desktop/Go-Onsite/Design-TDD/UnitTesting-Practice/UnitTesting-PracticeTests/UnitTesting_PracticeTests.swift"
+                  timestampString = "553279910.674041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 : @autoclosure () throws -&gt; Swift.Bool in UnitTesting_PracticeTests.UnitTesting_PracticeTests.test_shouldShowEnableLocationAlert_returnsTrue_when_locationServicesAreDisabled() -&gt; ()"
+                  moduleName = "UnitTesting-PracticeTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/malikj/Desktop/Go-Onsite/Design-TDD/UnitTesting-Practice/UnitTesting-PracticeTests/UnitTesting_PracticeTests.swift"
+                  timestampString = "553279910.678389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTesting-Practice/LocationManager.swift"
+            timestampString = "553279933.43594"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "shouldShowEnableLocationAlert(locationManager:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of UnitTesting_Practice.OnboardingState.shouldShowEnableLocationAlert(locationManager: UnitTesting_Practice.LocationManagerType.Type) -&gt; Swift.Bool"
+                  moduleName = "UnitTesting-Practice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/malikj/Desktop/Go-Onsite/Design-TDD/UnitTesting-Practice/UnitTesting-Practice/LocationManager.swift"
+                  timestampString = "553279933.4441251"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UnitTesting_Practice.OnboardingState.shouldShowEnableLocationAlert(locationManager: UnitTesting_Practice.LocationManagerType.Type) -&gt; Swift.Bool"
+                  moduleName = "UnitTesting-Practice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/malikj/Desktop/Go-Onsite/Design-TDD/UnitTesting-Practice/UnitTesting-Practice/LocationManager.swift"
+                  timestampString = "553279933.4494359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UnitTesting-Practice/LocationManager.swift"
+            timestampString = "553279945.65334"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "locationServicesEnabled()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
